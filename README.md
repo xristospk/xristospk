@@ -1,5 +1,11 @@
+<div align="center">
+‚Without data you're just another person with an opinion‘ <br>
+W. Edwards Deming
+</div>
+<br>
+
 - 👋 Hi, I’m [@xristospk](https://linktr.ee/xristospk). Civil name: Xristos Yjannis Patrick Krybus.
-- 👀 I’m interested in Azure, Coding, Automatization, Fitness, Terraristic, Travel, Party and Nightlife, Gaming.
+- 👀 I’m interested in Azure, Coding, Automatization, Fitness, Cars, Terraristic, Travel, Party and Nightlife, Gaming.
 - 🌱 I’m currently learning how to survive :)
 - 💞️ I’m looking to collaborate on social entrepreneurship and human rights!
 - 📫 How to reach me: https://linktr.ee/xristospk
