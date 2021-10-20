@@ -2,7 +2,7 @@
 ‚Without data you're just another person with an opinion‘ <br>
 W. Edwards Deming
 </div>
-<br>
+<br><br>
 
 - 👋 Hi, I’m [@xristospk](https://linktr.ee/xristospk). Civil name: Xristos Yjannis Patrick Krybus.
 - 👀 I’m interested in Azure, Coding, Automatization, Fitness, Cars, Terraristic, Travel, Party and Nightlife, Gaming.
@@ -21,7 +21,7 @@ Car fanatic and proud owner of a <br>
 \- MB C63 AMG Cabriolet and 
 \- E39 BMW 5 Series 540i 4.4l V8 and 
 \- Kymco Maxxer S300 ATV 😍 <br>
- <br><br>
+ <br><br><br>
 
 Very involved Software and Data Engineer in a Business Intelligence environment as a member of the Cloud Analytics team.
 Enabling innovative analytics solutions, services and applications in the Azure Cloud: #devops #databricks #analytics #fullstack #azure #powerbi #lakehouse #.net #apis #automation #twiceasfast
