@@ -23,7 +23,7 @@ Car fanatic and proud owner of a <br>
 \- Kymco Maxxer S300 ATV 😍 <br>
  <br><br><br>
 
-Very involved Software and Data Engineer in a Business Intelligence environment as a member of the Cloud Analytics team.
+Very involved [Software and Data Engineer](https://www.xing.com/profile/PatrickXristos_Krybus) in a Business Intelligence environment as a member of the Cloud Analytics team [@daimler_tss](https://www.instagram.com/daimler_tss/).
 Enabling innovative analytics solutions, services and applications in the Azure Cloud: #devops #databricks #analytics #fullstack #azure #powerbi #lakehouse #.net #apis #automation #twiceasfast
 
 </div>
