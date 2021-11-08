@@ -14,7 +14,7 @@ W. Edwards Deming
 
 <div align="center">
 
-🌸 Social Entrepreneur. 🌸  <br>
+🌸 Social Entrepreneur 🌸  <br>
 Founder of [bokslarry.eu](https://www.instagram.com/bokslarry.eu/) <br>
 Currently starting a speakeasy bar in Creta, Greece. <br>
 IT-Nerd, cloud fanatic and Cryptocurrency enthusiast. <br>
