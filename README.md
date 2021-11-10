@@ -25,11 +25,25 @@ Car fanatic and proud owner of a <br>
 \- Kymco Maxxer S300 ATV 😍 <br>
  <br><br>
 
-🧠 <br>
+Made with 🧠 by Cloud Analytics <br>
 Very involved [Software and Data Engineer](https://www.xing.com/profile/PatrickXristos_Krybus) in a Business Intelligence environment as a member of the Cloud Analytics team [@daimler_tss](https://www.instagram.com/daimler_tss/).
 Enabling innovative analytics solutions, services and applications in the Azure Cloud: #devops #databricks #analytics #fullstack #azure #powerbi #lakehouse #.net #apis #automation #twiceasfast
-
+ 
+<br>
+<br>
+Mit freundlichem Gruß / Kind Regards / #MFGTSS
+<br>
+<br>
 </div>
+<img src="https://cdn.worldvectorlogo.com/logos/linktree-2.svg" alt="drawing" width="20"/>  [xristospk](https://www.linktr.ee/xristospk)
+
+<img src="https://user-images.githubusercontent.com/26623619/135774582-194d8c26-47de-455f-9746-98a06dd0e509.png" alt="drawing" width="20"/>  [Patrick Krybus](https://www.xing.com/profile/PatrickXristos_Krybus)
+
+<img src="https://user-images.githubusercontent.com/26623619/141059589-e0a3ae00-9c0a-4e6b-9446-bed603a1befa.png" alt="drawing" width="20"/>  [Patrick 'Xristos' Krybus](https://www.linkedin.com/in/xristospk/)
+
+<img src="https://user-images.githubusercontent.com/26623619/135774544-e9215840-e364-4386-b409-180c12ade8c3.png" alt="drawing" width="20"/>  [kbs.xrs](http://instagram.com/kbs.xrs/)
+
+<img src="https://user-images.githubusercontent.com/26623619/135774679-778a23f7-3959-4d31-aa3f-dc6b98778495.png" alt="drawing" width="20"/>  [XYPK](https://www.facebook.com/patrick.krybus)
 
 <!---
 xristospk/xristospk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
