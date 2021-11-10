@@ -32,12 +32,13 @@ Enabling innovative analytics solutions, services and applications in the Azure 
 <br>
 <br>
 Mit freundlichem Gruß / Kind Regards / #MFGTSS
+ </div>
 <br>
 <br>
-</div>
+
 <img src="https://cdn.worldvectorlogo.com/logos/linktree-2.svg" alt="drawing" width="20"/>  [xristospk](https://www.linktr.ee/xristospk)
 
-<img src="https://user-images.githubusercontent.com/26623619/135774582-194d8c26-47de-455f-9746-98a06dd0e509.png" alt="drawing" width="20"/>  [Patrick Krybus](https://www.xing.com/profile/PatrickXristos_Krybus)
+<img src="https://user-images.githubusercontent.com/26623619/135774582-194d8c26-47de-455f-9746-98a06dd0e509.png" alt="drawing" width="20"/>  [Patrick 'Xristos' Krybus](https://www.xing.com/profile/PatrickXristos_Krybus)
 
 <img src="https://user-images.githubusercontent.com/26623619/141059589-e0a3ae00-9c0a-4e6b-9446-bed603a1befa.png" alt="drawing" width="20"/>  [Patrick 'Xristos' Krybus](https://www.linkedin.com/in/xristospk/)
 
