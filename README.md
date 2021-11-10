@@ -1,5 +1,5 @@
 <div align="center">
-‚Without data you're just another person with an opinion‘ <br>
+‚Without data you're just another person with an opinion‘. <br>
 W. Edwards Deming
 </div>
 <br><br>
