@@ -4,7 +4,7 @@ W. Edwards Deming
 </div>
 <br><br>
 
-- 👋 Hi, I’m [@xristospk](https://linktr.ee/xristospk). Civil name: Xristos Yjannis Patrick Krybus.
+- 👋 Hi, I’m [@xristospk](https://linktr.ee/xristospk). Civil name: Patrick Krybus.
 - 👀 I’m interested in Azure, Coding, Automatization, Fitness, Cars, Terraristic, Travel, Party and Nightlife, Gaming.
 - 🌱 I’m currently learning how to survive :)
 - 💞️ I’m looking to collaborate on social entrepreneurship and human rights!
@@ -14,15 +14,8 @@ W. Edwards Deming
 
 <div align="center">
 
-🌸 Social Entrepreneur 🌸  <br>
-Founder of [bokslarry.eu](https://www.instagram.com/bokslarry.eu/) <br>
-Currently starting a speakeasy bar in Creta, Greece. <br>
 IT-Nerd, cloud fanatic and Cryptocurrency enthusiast. <br>
 Microsoft Fanboy and Astrophysics thrilled. <br>
-Car fanatic and proud owner of a <br>
-\- MB C63 AMG Cabriolet and 
-\- E39 BMW 5 Series 540i 4.4l V8 and 
-\- Kymco Maxxer S300 ATV 😍 <br>
  <br><br>
 
 Made with 🧠 by Cloud Analytics <br>
