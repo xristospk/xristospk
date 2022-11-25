@@ -5,7 +5,7 @@ W. Edwards Deming
 <br><br>
 
 - 👋 Hi, I’m [@xristospk](https://linktr.ee/xristospk). Civil name: Patrick Krybus.
-- 👀 I’m interested in Azure, Coding, Automatization, Fitness, Cars, Terraristic, Travel, Party and Nightlife, Gaming.
+- 👀 I’m interested in Azure, Coding, Automatization, Fitness, Cars, Terraristics, Travel, Diving, Gaming.
 - 🌱 I’m currently learning how to survive :)
 - 💞️ I’m looking to collaborate on social entrepreneurship and human rights!
 
@@ -13,8 +13,7 @@ W. Edwards Deming
 
 <div align="center">
 
-IT-Nerd, cloud fanatic and Cryptocurrency enthusiast. <br>
-Microsoft Fanboy and Astrophysics thrilled. <br>
+IT Nerd, cloud enthusiast and Microsoft fanboy. <br>
  <br><br>
 
  </div>
