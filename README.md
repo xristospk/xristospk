@@ -5,6 +5,7 @@ W. Edwards Deming
 <br><br>
 
 - 👋 Hi, I’m [@xristospk](https://linktr.ee/xristospk). Civil name: Patrick Krybus.
+- 📍 GER > PF - STG and roaming around the world.
 - 🧑🏼‍💻 I'm currently employed @OmikronDataSolutions as a Senior Software - and Data Engineer.
 - 👀 I’m interested in Azure, Coding, Automatization, Fitness, Cars, Terraristics, Travel, Diving, Gaming.
 - 🌱 I’m currently learning how to survive :)
